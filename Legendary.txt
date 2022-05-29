@@ -1,0 +1,1015 @@
+Mewtwo-Mega-X @ Mewtwonite X  
+Ability: Pressure  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Drain Punch  
+- Psycho Cut  
+- Ice Punch  
+- Bulk Up  
+
+Mewtwo-Mega-Y @ Mewtwonite Y  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psystrike  
+- Ice Beam  
+- Thunderbolt  
+- Aura Sphere  
+
+Articuno @ Choice Scarf  
+Ability: Pressure  
+EVs: 12 HP / 252 SpA / 244 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Freeze-Dry  
+- Hurricane  
+- Extrasensory  
+
+Articuno-Galar @ Leftovers  
+Ability: Competitive  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Recover  
+- Freezing Glare  
+- Shadow Ball  
+
+Zapdos @ Rocky Helmet  
+Ability: Static  
+EVs: 252 HP / 236 Def / 20 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Discharge  
+- Volt Switch  
+- Heat Wave  
+- Roost  
+
+Zapdos-Galar @ Choice Scarf  
+Ability: Defiant  
+EVs: 28 HP / 252 Atk / 228 Spe  
+Adamant Nature  
+- Close Combat  
+- Brave Bird  
+- Throat Chop  
+- U-turn  
+
+Moltres @ Choice Specs  
+Ability: Flame Body  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Scorching Sands  
+- Hurricane  
+- Ancient Power  
+
+Moltres-Galar @ Assault Vest  
+Ability: Berserk  
+EVs: 236 HP / 252 SpA / 20 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Fiery Wrath  
+- Hurricane  
+- Agility  
+- Nasty Plot  
+
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Soft-Boiled  
+- Psychic Fangs  
+- Triple Axel  
+
+Dragonite @ Choice Band  
+Ability: Multiscale  
+EVs: 252 HP / 252 Atk / 4 Def  
+Adamant Nature  
+- Extreme Speed  
+- Outrage  
+- Dual Wingbeat  
+- Earthquake  
+
+Lugia @ Leftovers  
+Ability: Multiscale  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Roost  
+- Aeroblast  
+- Psychic  
+
+Ho-Oh @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 252 HP / 16 Atk / 16 Def / 224 SpD  
+Careful Nature  
+- Sacred Fire  
+- Brave Bird  
+- Roost  
+- Earthquake  
+
+Raikou @ Light Clay  
+Ability: Pressure  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Light Screen  
+- Reflect  
+- Scald  
+- Volt Switch  
+
+Entei @ Choice Band  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Extreme Speed  
+- Sacred Fire  
+- Crunch  
+- Stone Edge  
+
+Suicune @ Chesto Berry  
+Ability: Pressure  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Rest  
+- Scald  
+- Ice Beam  
+
+Tyranitar @ Assault Vest  
+Ability: Sand Stream  
+EVs: 252 HP / 252 Atk / 4 Def  
+Adamant Nature  
+- Crunch  
+- Earthquake  
+- Stone Edge  
+- Body Press  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Thunder  
+- Ice Beam  
+- Scald  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 252 HP / 4 Atk / 100 SpA / 152 Spe  
+Mild Nature  
+- Earthquake  
+- Overheat  
+- Rock Tomb  
+- Swords Dance  
+
+Rayquaza-Mega @ Lum Berry  
+Ability: Air Lock  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Extreme Speed  
+- Dragon Ascent  
+- Outrage  
+
+Regirock @ Custap Berry  
+Ability: Sturdy  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Explosion  
+- Stone Edge  
+- Body Press  
+- Ice Punch  
+
+Regice @ Chesto Berry  
+Ability: Clear Body  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Rest  
+- Ice Beam  
+- Thunderbolt  
+- Focus Blast  
+
+Registeel @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Curse  
+- Body Press  
+- Iron Head  
+- Ice Punch  
+
+Latias-Mega (F) @ Latiasite  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Mystical Fire  
+- Ice Beam  
+- Psychic  
+
+Latios-Mega (M) @ Latiosite  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Ice Beam  
+- Thunderbolt  
+- Psychic  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 112 Def / 112 SpD / 32 Spe  
+Quirky Nature  
+- Thunder Wave  
+- Iron Head  
+- Ancient Power  
+- Zen Headbutt  
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Thunderbolt  
+- Ice Beam  
+- Shadow Ball  
+
+Deoxys-Defense @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 200 Def / 56 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Night Shade  
+- Recover  
+- Taunt  
+- Teleport  
+
+Salamence-Mega @ Salamencite  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Double-Edge  
+- Outrage  
+- Dragon Dance  
+- Earthquake  
+
+Metagross-Mega @ Metagrossite  
+Ability: Clear Body  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Bullet Punch  
+- Zen Headbutt  
+- Earthquake  
+
+Dialga @ Adamant Orb  
+Ability: Pressure  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Draco Meteor  
+- Flash Cannon  
+- Earth Power  
+- Trick Room  
+
+Palkia @ Lustrous Orb  
+Ability: Pressure  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Trick Room  
+- Hydro Pump  
+- Spacial Rend  
+- Ice Beam  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Poltergeist  
+- Outrage  
+- Shadow Sneak  
+- Will-O-Wisp  
+
+Azelf @ Focus Sash  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Psyshock  
+- Flamethrower  
+- Thunderbolt  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Taunt  
+- Flash Cannon  
+- Earth Power  
+
+Manaphy @ Life Orb  
+Ability: Hydration  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Tail Glow  
+- Ice Beam  
+- Surf  
+- Psychic  
+
+Darkrai @ Focus Sash  
+Ability: Bad Dreams  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Sludge Bomb  
+- Thunderbolt  
+- Ice Beam  
+
+Shaymin-Sky @ Focus Sash  
+Ability: Serene Grace  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Seed Flare  
+- Leech Seed  
+- Earth Power  
+
+Arceus @ Leftovers  
+Ability: Multitype  
+EVs: 240 HP / 252 Atk / 16 Spe  
+Adamant Nature  
+- Swords Dance  
+- Extreme Speed  
+- Shadow Claw  
+- Recover  
+
+Garchomp @ Focus Sash  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Outrage  
+- Earthquake  
+- Stone Edge  
+
+Reshiram @ Assault Vest  
+Ability: Turboblaze  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Blue Flare  
+- Draco Meteor  
+- Earth Power  
+- Hidden Power [Ice]  
+
+Zekrom @ Lum Berry  
+Ability: Teravolt  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Bolt Strike  
+- Outrage  
+- Roost  
+
+Kyurem-White @ Choice Specs  
+Ability: Turboblaze  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Ice Beam  
+- Freeze-Dry  
+- Fusion Flare  
+
+Cresselia (F) @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 4 Def / 252 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Moonlight  
+- Moonblast  
+- Psychic  
+
+Cobalion @ Assault Vest  
+Ability: Justified  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Iron Head  
+- Stone Edge  
+- Volt Switch  
+
+Terrakion @ Choice Band  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Stone Edge  
+- Earthquake  
+- Megahorn  
+
+Virizion @ Choice Scarf  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Smart Strike  
+- Close Combat  
+- Leaf Blade  
+- Stone Edge  
+
+Tornadus-Therian (M) @ Life Orb  
+Ability: Regenerator  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Nasty Plot  
+- Heat Wave  
+- U-turn  
+
+Thundurus-Therian (M) @ Choice Specs  
+Ability: Volt Absorb  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Volt Switch  
+- Grass Knot  
+- Dark Pulse  
+
+Landorus (M) @ Life Orb  
+Ability: Sheer Force  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Psychic  
+- Sludge Wave  
+- Rock Polish  
+
+Landorus-Therian (M) @ Choice Band  
+Ability: Intimidate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Earthquake  
+- U-turn  
+- Explosion  
+
+Victini @ Choice Scarf  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Bolt Strike  
+- V-create  
+- U-turn  
+- Trick  
+
+Keldeo-Resolute @ Choice Specs  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Secret Sword  
+- Air Slash  
+- Hidden Power [Ice]  
+
+Meloetta @ Life Orb  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Relic Song  
+- Close Combat  
+- Zen Headbutt  
+- Ice Punch  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Ice Beam  
+- Thunderbolt  
+- U-turn  
+- Flamethrower  
+
+Hydreigon @ Assault Vest  
+Ability: Levitate  
+EVs: 252 HP / 4 Def / 252 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Dark Pulse  
+- Flamethrower  
+- Flash Cannon  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Geomancy  
+- Moonblast  
+- Psyshock  
+- Thunderbolt  
+
+Yveltal @ Assault Vest  
+Ability: Dark Aura  
+EVs: 124 Atk / 252 SpA / 132 Spe  
+Lonely Nature  
+- Dark Pulse  
+- Oblivion Wing  
+- Knock Off  
+- Sucker Punch  
+
+Zygarde @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Coil  
+- Thousand Arrows  
+- Thousand Waves  
+- Outrage  
+
+Diancie-Mega @ Diancite  
+Ability: Clear Body  
+EVs: 252 HP / 4 Def / 252 SpD  
+Sassy Nature  
+- Diamond Storm  
+- Moonblast  
+- Mystical Fire  
+- Psychic  
+
+Hoopa-Unbound @ Assault Vest  
+Ability: Magician  
+EVs: 252 HP / 92 Atk / 160 SpA / 4 SpD  
+Lonely Nature  
+- Hyperspace Fury  
+- Psychic  
+- Thunderbolt  
+- Focus Blast  
+
+Volcanion @ Assault Vest  
+Ability: Water Absorb  
+EVs: 252 HP / 4 Def / 252 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Steam Eruption  
+- Flamethrower  
+- Hidden Power [Ice]  
+- Focus Blast  
+
+Goodra @ Assault Vest  
+Ability: Sap Sipper  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Sassy Nature  
+- Draco Meteor  
+- Ice Beam  
+- Thunderbolt  
+- Power Whip  
+
+Solgaleo @ Assault Vest  
+Ability: Full Metal Body  
+EVs: 16 HP / 252 Atk / 240 Spe  
+Adamant Nature  
+- Psychic Fangs  
+- Iron Head  
+- Close Combat  
+- Bulldoze  
+
+Lunala @ Power Herb  
+Ability: Shadow Shield  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Trick Room  
+- Moonblast  
+- Moongeist Beam  
+- Meteor Beam  
+
+Necrozma-Dawn-Wings @ Power Herb  
+Ability: Prism Armor  
+EVs: 252 HP / 4 Def / 252 SpA  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Trick Room  
+- Meteor Beam  
+- Moongeist Beam  
+- Photon Geyser  
+
+Necrozma-Dusk-Mane @ Weakness Policy  
+Ability: Prism Armor  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Trick Room  
+- Photon Geyser  
+- Sunsteel Strike  
+- Earthquake  
+
+Silvally-Fairy @ Fairy Memory  
+Ability: RKS System  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Flame Charge  
+- Multi-Attack  
+- Psychic Fangs  
+- Parting Shot  
+
+Tapu Koko @ Focus Sash  
+Ability: Electric Surge  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Dazzling Gleam  
+- Volt Switch  
+- Taunt  
+
+Tapu Lele @ Choice Scarf  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Moonblast  
+- Thunderbolt  
+- Shadow Ball  
+
+Tapu Bulu @ Life Orb  
+Ability: Grassy Surge  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Horn Leech  
+- Wood Hammer  
+- Bulk Up  
+- Superpower  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 252 HP / 212 SpA / 40 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Surf  
+- Moonblast  
+- Ice Beam  
+- Taunt  
+
+Nihilego @ Power Herb  
+Ability: Beast Boost  
+EVs: 80 HP / 176 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Meteor Beam  
+- Sludge Wave  
+- Thunderbolt  
+- Psychic  
+
+Buzzwole @ Rocky Helmet  
+Ability: Beast Boost  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Bulk Up  
+- Leech Life  
+- Drain Punch  
+- Roost  
+
+Pheromosa @ Focus Sash  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Triple Axel  
+- U-turn  
+- Taunt  
+
+Xurkitree @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Volt Switch  
+- Dazzling Gleam  
+- Energy Ball  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 168 Def / 88 SpD  
+Sassy Nature  
+- Leech Seed  
+- Protect  
+- Air Slash  
+- Heavy Slam  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Leaf Blade  
+- Knock Off  
+- Sacred Sword  
+- Smart Strike  
+
+Guzzlord @ Assault Vest  
+Ability: Beast Boost  
+EVs: 4 Atk / 252 Def / 252 SpD  
+Relaxed Nature  
+- Draco Meteor  
+- Knock Off  
+- Flamethrower  
+- Earthquake  
+
+Naganadel @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Sludge Wave  
+- Flamethrower  
+- Thunderbolt  
+
+Stakataka @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Trick Room  
+- Body Press  
+- Gyro Ball  
+- Stone Edge  
+
+Blacephalon @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Mind Blown  
+- Flamethrower  
+- Shadow Ball  
+- Psychic  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 184 HP / 252 SpA / 72 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shift Gear  
+- Dazzling Gleam  
+- Flash Cannon  
+- Thunderbolt  
+
+Marshadow @ Focus Sash  
+Ability: Technician  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Spectral Thief  
+- Low Kick  
+- Shadow Sneak  
+- Rock Tomb  
+
+Zeraora @ Focus Sash  
+Ability: Volt Absorb  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Plasma Fists  
+- Play Rough  
+- Close Combat  
+- Volt Switch  
+
+Melmetal @ Leftovers  
+Ability: Iron Fist  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Double Iron Bash  
+- Darkest Lariat  
+- Ice Punch  
+- Superpower  
+
+Kommo-o @ Sitrus Berry  
+Ability: Bulletproof  
+EVs: 88 Atk / 168 SpA / 252 Spe  
+Serious Nature  
+- Clangorous Soul  
+- Close Combat  
+- Clanging Scales  
+- Boomburst  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Behemoth Blade  
+- Close Combat  
+- Play Rough  
+- Crunch  
+
+Zamazenta-Crowned @ Rusted Shield  
+Ability: Dauntless Shield  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Behemoth Bash  
+- Crunch  
+- Close Combat  
+- Play Rough  
+
+Eternatus @ Black Sludge  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Recover  
+- Dynamax Cannon  
+- Sludge Wave  
+- Flamethrower  
+
+Calyrex-Ice @ Life Orb  
+Ability: As One (Glastrier)  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Trick Room  
+- Glacial Lance  
+- High Horsepower  
+- Close Combat  
+
+Calyrex-Shadow @ Choice Specs  
+Ability: As One (Spectrier)  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Astral Barrage  
+- Psyshock  
+- Will-O-Wisp  
+- Trick  
+
+Urshifu @ Focus Sash  
+Ability: Unseen Fist  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Wicked Blow  
+- Sucker Punch  
+- Poison Jab  
+
+Urshifu-Rapid-Strike @ Focus Sash  
+Ability: Unseen Fist  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Aqua Jet  
+- Surging Strikes  
+- Ice Punch  
+
+Regieleki @ Light Clay  
+Ability: Transistor  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Volt Switch  
+- Reflect  
+- Light Screen  
+
+Regidrago @ Choice Scarf  
+Ability: Dragon's Maw  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Energy  
+- Ancient Power  
+- Draco Meteor  
+- Hyper Beam  
+
+Zarude @ Assault Vest  
+Ability: Leaf Guard  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Synthesis  
+- Darkest Lariat  
+- Power Whip  
+- Bulk Up  
+
+Dragapult @ Choice Band  
+Ability: Infiltrator  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Darts  
+- U-turn  
+- Phantom Force  
+- Psychic Fangs  
+
+Blissey (F) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 Def / 252 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Soft-Boiled  
+- Heal Bell  
+- Teleport  
+
+Dracovish @ Choice Scarf  
+Ability: Strong Jaw  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fishious Rend  
+- Crunch  
+- Psychic Fangs  
+- Outrage  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Leech Seed  
+- Gyro Ball  
+- Power Whip  
+- Knock Off  
+
+Darmanitan-Galar @ Choice Scarf  
+Ability: Gorilla Tactics  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Icicle Crash  
+- Superpower  
+- U-turn  
+
+Gengar-Mega @ Gengarite  
+Ability: Cursed Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Psychic  
+- Thunderbolt  
+
+Blastoise-Mega @ Blastoisinite  
+Ability: Rain Dish  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Shell Smash  
+- Aura Sphere  
+- Water Pulse  
+- Ice Beam  
+
+Cinderace @ Focus Sash  
+Ability: Libero  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Pyro Ball  
+- High Jump Kick  
+- U-turn  
+- Sucker Punch  
+
+Greninja-Ash (M) @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Shuriken  
+- Surf  
+- Ice Beam  
+- Dark Pulse  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Blaze  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Dragon Claw  
+- Flare Blitz  
+- Earthquake  
+
+Blaziken-Mega @ Blazikenite  
+Ability: Speed Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Protect  
+- Close Combat  
+- Flare Blitz  
+- Thunder Punch  
