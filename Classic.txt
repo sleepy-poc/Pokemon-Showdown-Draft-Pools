@@ -1294,8 +1294,8 @@ Adamant Nature
 
 Mismagius @ Expert Belt  
 Ability: Levitate  
-EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
+EVs: 252 SpA / 4 SpD / 252 Spe  
 IVs: 0 Atk  
 - Nasty Plot  
 - Shadow Ball  
@@ -2481,3 +2481,258 @@ Adamant Nature
 - Earthquake  
 - Body Press  
 - Iron Defense  
+
+Slowking-Galar @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Slack Off  
+- Flamethrower  
+- Eerie Spell  
+- Sludge Wave  
+
+Donphan @ Choice Band  
+Ability: Sturdy  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Earthquake  
+- Superpower  
+- Play Rough  
+- Ice Shard  
+
+Hitmontop (M) @ Assault Vest  
+Ability: Intimidate  
+EVs: 252 HP / 252 Atk / 4 Def  
+Adamant Nature  
+- Fake Out  
+- Close Combat  
+- Triple Axel  
+- Sucker Punch  
+
+Meganium @ Light Clay  
+Ability: Overgrow  
+EVs: 252 HP / 76 Def / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Light Screen  
+- Reflect  
+- Leech Seed  
+- Giga Drain  
+
+Bastiodon @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Curse  
+- Stone Edge  
+- Heavy Slam  
+- Earthquake  
+
+Unfezant @ Scope Lens  
+Ability: Super Luck  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Brave Bird  
+- Night Slash  
+- U-turn  
+- Taunt  
+
+Sawk (M) @ Choice Scarf  
+Ability: Sturdy  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Knock Off  
+- Ice Punch  
+- Earthquake  
+
+Throh (M) @ Flame Orb  
+Ability: Guts  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Facade  
+- Knock Off  
+- Storm Throw  
+- Stone Edge  
+
+Leavanny @ Focus Sash  
+Ability: Swarm  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Knock Off  
+- Leaf Blade  
+- X-Scissor  
+
+Sigilyph @ Life Orb  
+Ability: Magic Guard  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Ice Beam  
+- Shadow Ball  
+- Heat Wave  
+
+Cryogonal @ Leftovers  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Freeze-Dry  
+- Recover  
+- Haze  
+
+Accelgor @ Choice Specs  
+Ability: Unburden  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Bug Buzz  
+- U-turn  
+- Energy Ball  
+- Final Gambit  
+
+Bouffalant @ Choice Band  
+Ability: Reckless  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Head Charge  
+- Wild Charge  
+- Close Combat  
+- Earthquake  
+
+Diggersby @ Choice Band  
+Ability: Huge Power  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- Return  
+- Stone Edge  
+
+Heliolisk @ Life Orb  
+Ability: Dry Skin  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Glare  
+- Surf  
+- Thunderbolt  
+- Volt Switch  
+
+Carbink @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Body Press  
+- Calm Mind  
+- Iron Defense  
+
+Oranguru @ Leftovers  
+Ability: Inner Focus  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Yawn  
+- Future Sight  
+- Shadow Ball  
+- Thunderbolt  
+
+Passimian @ Choice Scarf  
+Ability: Defiant  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Knock Off  
+- Gunk Shot  
+- U-turn  
+
+Pyukumuku @ Leftovers  
+Ability: Unaware  
+EVs: 252 HP / 188 Def / 68 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Counter  
+- Mirror Coat  
+- Recover  
+- Taunt  
+
+Minior @ White Herb  
+Ability: Shields Down  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Shell Smash  
+- Acrobatics  
+- Stone Edge  
+- Earthquake  
+
+Turtonator @ Assault Vest  
+Ability: Shell Armor  
+EVs: 248 HP / 8 Def / 252 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Shell Trap  
+- Draco Meteor  
+- Flamethrower  
+- Body Press  
+
+Dubwool @ Leftovers  
+Ability: Fluffy  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Cotton Guard  
+- Body Press  
+- Double-Edge  
+- Wild Charge  
+
+Sandaconda @ Leftovers  
+Ability: Sand Spit  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Glare  
+- Earthquake  
+- Body Press  
+- Coil  
+
+Grapploct @ Assault Vest  
+Ability: Technician  
+EVs: 252 HP / 252 Atk / 4 Def  
+Adamant Nature  
+- Liquidation  
+- Sucker Punch  
+- Drain Punch  
+- Stomping Tantrum  
+
+Alcremie (F) @ Leftovers  
+Ability: Sweet Veil  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Recover  
+- Mystical Fire  
+- Dazzling Gleam  
+
+Falinks @ Leftovers  
+Ability: Battle Armor  
+EVs: 144 HP / 252 Atk / 112 Spe  
+Adamant Nature  
+- No Retreat  
+- Close Combat  
+- Throat Chop  
+- Poison Jab  
+
+Frosmoth @ Leftovers  
+Ability: Ice Scales  
+EVs: 252 HP / 12 SpA / 244 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Bug Buzz  
+- Ice Beam  
+- Giga Drain  
