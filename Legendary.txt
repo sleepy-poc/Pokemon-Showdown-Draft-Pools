@@ -1013,3 +1013,28 @@ Adamant Nature
 - Close Combat  
 - Flare Blitz  
 - Thunder Punch  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+EVs: 252 HP  
+Quirky Nature  
+- Transform  
+
+Shedinja @ Focus Sash  
+Ability: Wonder Guard  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Will-O-Wisp  
+- Poltergeist  
+- Shadow Sneak  
+- Skitter Smack  
+
+Wobbuffet @ Sitrus Berry  
+Ability: Shadow Tag  
+EVs: 252 HP / 164 Def / 92 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Counter  
+- Destiny Bond  
+- Encore  
+- Mirror Coat  
