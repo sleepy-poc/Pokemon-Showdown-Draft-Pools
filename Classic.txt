@@ -683,7 +683,7 @@ Timid Nature
 IVs: 0 Atk  
 - Flamethrower  
 - Extrasensory  
-- Energy Ball  
+- Solar Beam  
 - Nasty Plot  
 
 Vaporeon @ Leftovers  
@@ -1866,7 +1866,7 @@ Adamant Nature
 - Earthquake  
 
 Huntail @ White Herb  
-Ability: Swift Swim  
+Ability: Water Veil  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Adamant Nature  
 - Shell Smash  
