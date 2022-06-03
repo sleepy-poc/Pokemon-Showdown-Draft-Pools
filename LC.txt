@@ -282,9 +282,9 @@ IVs: 0 Atk
 Magnemite @ Choice Specs  
 Ability: Magnet Pull  
 Level: 5  
-EVs: 236 HP / 236 SpA  
+EVs: 236 HP / 240 SpA  
 Modest Nature  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 SpA / 30 Spe  
 - Flash Cannon  
 - Discharge  
 - Volt Switch  
@@ -430,9 +430,9 @@ IVs: 0 Atk
 Mime Jr. @ Choice Specs  
 Ability: Technician  
 Level: 5  
-EVs: 196 HP / 76 Def / 196 SpA / 36 SpD  
+EVs: 196 HP / 80 Def / 196 SpA / 36 SpD  
 Modest Nature  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 Def  
 - Psychic  
 - Dazzling Gleam  
 - Thunderbolt  
@@ -536,9 +536,9 @@ IVs: 0 Atk
 Cyndaquil @ Choice Scarf  
 Ability: Flash Fire  
 Level: 5  
-EVs: 44 HP / 12 Def / 196 SpA / 236 Spe  
+EVs: 44 HP / 12 Def / 200 SpA / 236 Spe  
 Modest Nature  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 SpA  
 - Eruption  
 - Extrasensory  
 - Flamethrower  
@@ -643,9 +643,9 @@ Adamant Nature
 Slugma @ Choice Specs  
 Ability: Weak Armor  
 Level: 5  
-EVs: 36 HP / 36 Def / 196 SpA / 36 SpD / 196 Spe  
+EVs: 36 HP / 36 Def / 200 SpA / 36 SpD / 196 Spe  
 Modest Nature  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 SpA  
 - Flamethrower  
 - Earth Power  
 - Hidden Power [Grass]  
@@ -855,7 +855,7 @@ Ability: Lightning Rod
 Level: 5  
 EVs: 36 HP / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 Def  
 - Thunderbolt  
 - Volt Switch  
 - Flamethrower  
@@ -885,9 +885,9 @@ Adamant Nature
 Wailmer @ Choice Scarf  
 Ability: Pressure  
 Level: 5  
-EVs: 196 SpA / 76 SpD / 196 Spe  
+EVs: 200 SpA / 76 SpD / 196 Spe  
 Modest Nature  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 SpA  
 - Water Spout  
 - Ice Beam  
 - Clear Smog  
@@ -920,6 +920,7 @@ Ability: Hyper Cutter
 Level: 5  
 EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
+- Rock Slide  
 - Earthquake  
 - Quick Attack  
 - First Impression  
@@ -1093,9 +1094,9 @@ Jolly Nature
 Piplup @ Eviolite  
 Ability: Torrent  
 Level: 5  
-EVs: 172 Def / 188 SpA / 148 SpD  
+EVs: 12 HP / 172 Def / 192 SpA / 68 SpD / 36 Spe  
 Modest Nature  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 SpA  
 - Scald  
 - Ice Beam  
 - Hidden Power [Grass]  
@@ -1326,7 +1327,7 @@ Modest Nature
 IVs: 0 Atk  
 - Scald  
 - Ice Beam  
-- Grass Knot  
+- Sleep Talk  
 - Air Slash  
 
 Lillipup @ Choice Band  
@@ -1348,7 +1349,7 @@ IVs: 0 Atk
 - Nasty Plot  
 - Encore  
 - Dark Pulse  
-- Grass Knot  
+- Hyper Voice  
 
 Pansage @ Eviolite  
 Ability: Overgrow  
@@ -1447,9 +1448,9 @@ Adamant Nature
 Tympole @ Choice Specs  
 Ability: Water Absorb  
 Level: 5  
-EVs: 36 Def / 196 SpA / 244 Spe  
+EVs: 36 Def / 200 SpA / 244 Spe  
 Timid Nature  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 SpA  
 - Scald  
 - Sludge Wave  
 - Earth Power  
@@ -1810,11 +1811,11 @@ IVs: 0 Atk
 Froakie @ Focus Sash  
 Ability: Protean  
 Level: 5  
-EVs: 28 HP / 36 Def / 180 SpA / 4 SpD / 188 Spe  
+EVs: 28 HP / 36 Def / 184 SpA / 4 SpD / 188 Spe  
 Timid Nature  
 - Surf  
 - Ice Beam  
-- Grass Knot  
+- Hidden Power [Grass]  
 - U-turn  
 
 Bunnelby @ Choice Band  
@@ -1956,13 +1957,13 @@ IVs: 0 Atk
 Helioptile @ Choice Specs  
 Ability: Dry Skin  
 Level: 5  
-EVs: 4 HP / 92 Def / 188 SpA / 12 SpD / 196 Spe  
+EVs: 4 HP / 92 Def / 192 SpA / 12 SpD / 196 Spe  
 Timid Nature  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 SpA  
 - Thunderbolt  
 - Volt Switch  
 - Surf  
-- Grass Knot  
+- Hidden Power [Grass]  
 
 Tyrunt @ Berry Juice  
 Ability: Sturdy  
@@ -2155,7 +2156,7 @@ Ability: Contrary
 Level: 5  
 EVs: 156 Def / 196 SpA / 156 SpD  
 Modest Nature  
-IVs: 0 Atk  
+IVs: 0 Atk / 30 Def  
 - Leaf Storm  
 - Synthesis  
 - Aromatherapy  
@@ -2377,16 +2378,6 @@ Adamant Nature
 - Iron Head  
 - Power Whip  
 - Rock Slide  
-
-Kubfu @ Eviolite  
-Ability: Inner Focus  
-Level: 5  
-EVs: 36 HP / 196 Atk / 36 Def / 36 SpD / 180 Spe  
-Jolly Nature  
-- Close Combat  
-- Ice Punch  
-- Fire Punch  
-- U-turn  
 
 Meltan @ Berry Juice  
 Ability: Magnet Pull  
