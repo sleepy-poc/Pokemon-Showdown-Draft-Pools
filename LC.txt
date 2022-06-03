@@ -2342,10 +2342,10 @@ Level: 5
 EVs: 36 HP / 244 SpA / 4 SpD / 196 Spe  
 Modest Nature  
 IVs: 0 Atk  
-- Shell Smash  
 - Shadow Ball  
-- Stored Power  
+- Psychic  
 - Giga Drain  
+- Nasty Plot
 
 Hatenna @ Eviolite  
 Ability: Magic Bounce  
