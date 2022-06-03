@@ -66,15 +66,15 @@ IVs: 0 Atk
 - Hurricane  
 - Ancient Power  
 
-Moltres-Galar @ Assault Vest  
+Moltres-Galar @ Sitrus Berry  
 Ability: Berserk  
-EVs: 236 HP / 252 SpA / 20 Spe  
+EVs: 252 HP / 252 SpA / 4 Spe  
 Modest Nature  
 IVs: 0 Atk  
 - Fiery Wrath  
 - Hurricane  
-- Agility  
 - Nasty Plot  
+- Agility
 
 Mew @ Leftovers  
 Ability: Synchronize  
@@ -863,7 +863,7 @@ IVs: 0 Atk
 - Will-O-Wisp  
 - Trick  
 
-Urshifu @ Focus Sash  
+Urshifu @ Choice Band  
 Ability: Unseen Fist  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
@@ -872,7 +872,7 @@ Jolly Nature
 - Sucker Punch  
 - Poison Jab  
 
-Urshifu-Rapid-Strike @ Focus Sash  
+Urshifu-Rapid-Strike @ Choice Band  
 Ability: Unseen Fist  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
@@ -920,14 +920,14 @@ Jolly Nature
 - Psychic Fangs  
 
 Blissey (F) @ Leftovers  
-Ability: Natural Cure  
-EVs: 252 Def / 252 SpD  
+Ability: Healer  
+EVs: 4 HP / 252 Def / 252 SpD  
 Bold Nature  
 IVs: 0 Atk  
 - Seismic Toss  
 - Soft-Boiled  
 - Heal Bell  
-- Teleport  
+- Teleport
 
 Dracovish @ Choice Scarf  
 Ability: Strong Jaw  
@@ -990,7 +990,6 @@ Greninja-Ash (M) @ Choice Specs
 Ability: Battle Bond  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
-IVs: 0 Atk  
 - Water Shuriken  
 - Surf  
 - Ice Beam  
