@@ -2736,3 +2736,13 @@ IVs: 0 Atk
 - Bug Buzz  
 - Ice Beam  
 - Giga Drain  
+
+Stunfisk @ Choice Specs  
+Ability: Static  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Discharge  
+- Earth Power  
+- Scald  
+- Sludge Bomb
