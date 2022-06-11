@@ -149,7 +149,7 @@ IVs: 0 Atk
 - Dazzling Gleam  
 
 Electrode @ Light Clay  
-Ability: Static  
+Ability: Aftermath  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -264,7 +264,7 @@ Ability: Sap Sipper
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Adamant Nature  
 - Psychic Fangs  
-- Double-Edge  
+- Return  
 - Crunch  
 - Earthquake  
 
@@ -475,7 +475,7 @@ Careful Nature
 - Superpower  
 - Drain Punch  
 - Sucker Punch  
-- Body Slam  
+- Return  
 
 Solrock @ Life Orb  
 Ability: Levitate  
