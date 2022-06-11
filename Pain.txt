@@ -728,6 +728,16 @@ IVs: 0 Atk
 - Moonblast  
 - Giga Drain  
 
+Pyukumuku @ Leftovers  
+Ability: Unaware  
+EVs: 252 HP / 192 Def / 64 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Counter  
+- Mirror Coat  
+- Recover  
+- Taunt  
+
 Komala @ Choice Band  
 Ability: Comatose  
 EVs: 252 HP / 252 Atk / 4 SpD  
@@ -781,19 +791,3 @@ Quiet Nature
 - Scald  
 - Sucker Punch  
 - Recover  
-
-Pyukumuku @ Leftovers  
-Ability: Unaware  
-EVs: 252 HP / 192 Def / 64 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Counter  
-- Mirror Coat  
-- Recover  
-- Taunt  
-
-Ditto @ Choice Scarf  
-Ability: Imposter  
-EVs: 252 HP / 48 Atk / 48 Def / 48 SpA / 48 SpD / 48 Spe  
-Quirky Nature  
-- Transform  
