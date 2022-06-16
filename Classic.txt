@@ -2343,13 +2343,13 @@ Modest Nature
 - Hidden Power [Grass]  
 
 Toxapex @ Black Sludge  
-Ability: Regenerator  
-EVs: 252 HP / 20 Def / 236 SpD  
-Impish Nature  
-- Recover  
+Ability: Merciless  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Baneful Bunker  
 - Liquidation  
 - Poison Jab  
-- Haze  
+- Recover
 
 Araquanid @ Choice Band  
 Ability: Water Bubble  
