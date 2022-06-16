@@ -328,7 +328,7 @@ Stantler @ Assault Vest
 Ability: Intimidate  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
-- Body Slam  
+- Return  
 - Jump Kick  
 - Megahorn  
 - Zen Headbutt  
@@ -406,7 +406,7 @@ EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature  
 - Fake Out  
 - Play Rough  
-- Body Slam  
+- Return  
 - Sucker Punch  
 
 Sableye @ Leftovers  
