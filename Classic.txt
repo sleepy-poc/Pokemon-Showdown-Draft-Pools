@@ -1159,15 +1159,15 @@ Adamant Nature
 - Earthquake  
 - Liquidation  
 
-Magnezone @ Choice Scarf  
-Ability: Magnet Pull  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
+Magnezone @ Choice Specs  
+Ability: Analytic  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
 IVs: 0 Atk  
-- Thunderbolt  
+- Discharge  
 - Flash Cannon  
-- Hidden Power [Fire]  
 - Volt Switch  
+- Hidden Power [Fire]  
 
 Snorlax @ Figy Berry  
 Ability: Gluttony  
@@ -2349,7 +2349,7 @@ Adamant Nature
 - Baneful Bunker  
 - Liquidation  
 - Poison Jab  
-- Recover
+- Recover  
 
 Araquanid @ Choice Band  
 Ability: Water Bubble  
@@ -2379,15 +2379,15 @@ IVs: 0 Atk
 - Dragon Pulse  
 - Hidden Power [Grass]  
 
-Palossand @ Leftovers  
+Palossand @ Passho Berry  
 Ability: Water Compaction  
 EVs: 252 HP / 252 SpA / 4 SpD  
 Modest Nature  
 IVs: 0 Atk  
+- Shore Up  
+- Curse  
 - Earth Power  
 - Shadow Ball  
-- Giga Drain  
-- Shore Up  
 
 Mimikyu @ Life Orb  
 Ability: Disguise  
@@ -2745,4 +2745,13 @@ IVs: 0 Atk
 - Discharge  
 - Earth Power  
 - Scald  
-- Sludge Bomb
+- Sludge Bomb  
+
+Linoone @ Figy Berry  
+Ability: Gluttony  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Belly Drum  
+- Extreme Speed  
+- Stomping Tantrum  
+- Throat Chop  
