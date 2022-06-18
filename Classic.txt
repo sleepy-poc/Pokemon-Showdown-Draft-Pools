@@ -2700,7 +2700,7 @@ Adamant Nature
 - Coil  
 
 Grapploct @ Assault Vest  
-Ability: Technician  
+Ability: Limber  
 EVs: 252 HP / 252 Atk / 4 Def  
 Adamant Nature  
 - Liquidation  
