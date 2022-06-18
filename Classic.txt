@@ -842,9 +842,9 @@ Ability: Contrary
 EVs: 252 HP / 4 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Leech Seed  
-- Glare  
 - Leaf Storm  
+- Glare  
+- Leech Seed  
 - Hidden Power [Ice]  
 
 Walrein @ Chesto Berry  
