@@ -366,13 +366,13 @@ Jolly Nature
 
 Ampharos @ Sitrus Berry  
 Ability: Static  
-EVs: 248 HP / 252 SpA / 8 SpD  
+EVs: 252 HP / 16 Def / 64 SpA / 176 SpD  
 Modest Nature  
 IVs: 0 Atk  
 - Discharge  
 - Volt Switch  
 - Cotton Guard  
-- Heal Bell  
+- Power Gem  
 
 Mienshao @ Focus Sash  
 Ability: Regenerator  
@@ -1131,14 +1131,14 @@ IVs: 0 Atk
 - Ice Beam  
 - Psychic  
 
-Crobat  
+Crobat @ Choice Band  
 Ability: Infiltrator  
-EVs: 4 HP / 252 Atk / 252 Spe  
+EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
-- Acrobatics  
-- Poison Fang  
-- Roost  
+- Brave Bird  
+- Cross Poison  
 - U-turn  
+- Dual Wingbeat  
 
 Tangrowth @ Rocky Helmet  
 Ability: Regenerator  
@@ -2035,8 +2035,8 @@ IVs: 0 Atk
 
 Zebstrika @ Life Orb  
 Ability: Motor Drive  
-EVs: 192 Atk / 252 SpA / 64 Spe  
-Mild Nature  
+EVs: 48 Atk / 208 SpA / 252 Spe  
+Hasty Nature  
 - Wild Charge  
 - Overheat  
 - Volt Switch  
