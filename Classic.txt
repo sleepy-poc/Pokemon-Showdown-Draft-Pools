@@ -2587,7 +2587,7 @@ IVs: 0 Atk
 - Haze  
 
 Accelgor @ Choice Specs  
-Ability: Unburden  
+Ability: Sticky Hold  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 - Bug Buzz  
