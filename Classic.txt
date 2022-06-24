@@ -416,7 +416,7 @@ Ability: Poison Heal
 EVs: 184 HP / 252 Atk / 72 Spe  
 Adamant Nature  
 - Roost  
-- Facade  
+- Acrobatics  
 - Earthquake  
 - Fling  
 
